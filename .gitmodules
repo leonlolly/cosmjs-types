@@ -7,3 +7,9 @@
 [submodule "ibc-go"]
 	path = protos/ibc-go-src
 	url = https://github.com/cosmos/ibc-go
+[submodule "cosmos-proto"]
+	path = cosmos-proto
+	url = https://github.com/regen-network/cosmos-proto.git
+[submodule "protos/protobuf"]
+	path = protos/protobuf
+	url = https://github.com/regen-network/protobuf.git
