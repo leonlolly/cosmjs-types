@@ -1,15 +1,15 @@
-[submodule "cosmos-sdk"]
+[submodule "protos/cosmos-sdk"]
 	path = protos/cosmos-sdk
 	url = https://github.com/cosmos/cosmos-sdk
-[submodule "wasmd"]
+[submodule "protos/wasmd"]
 	path = protos/wasmd-src
 	url = https://github.com/CosmWasm/wasmd.git
-[submodule "ibc-go"]
+[submodule "protos/ibc-go"]
 	path = protos/ibc-go-src
 	url = https://github.com/cosmos/ibc-go
-[submodule "cosmos-proto"]
-	path = cosmos-proto
-	url = https://github.com/regen-network/cosmos-proto.git
 [submodule "protos/protobuf"]
 	path = protos/protobuf
 	url = https://github.com/regen-network/protobuf.git
+[submodule "protos/cosmos-proto"]
+	path = protos/cosmos-proto
+	url = https://github.com/regen-network/cosmos-proto
